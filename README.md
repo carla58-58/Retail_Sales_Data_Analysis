@@ -15,7 +15,7 @@ CREATE TABLE retail_sales (
     age INT, category VARCHAR(35),
     quantity INT, price_per_unit FLOAT,
     cogs FLOAT, total_sale FLOAT
-);
+);```
 
 🧹 Data Cleaning
 
