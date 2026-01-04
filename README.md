@@ -7,6 +7,7 @@ Full SQL workflow: Database design → Data quality → Business intelligence us
 
 ## 🏗️ Database Schema
 
+```sql
 CREATE TABLE retail_sales (
     transactions_id INT PRIMARY KEY,
     sale_date DATE, sale_time TIME,
