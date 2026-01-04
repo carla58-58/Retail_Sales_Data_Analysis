@@ -18,7 +18,7 @@ CREATE TABLE retail_sales (
 );
 ```
 
-🧹 Data Cleaning
+## 🧹 Data Cleaning
 
 ```sql
 -- Check nulls across 9 columns
@@ -29,7 +29,7 @@ WHERE sale_date IS NULL OR sale_time IS NULL OR ...;
 DELETE FROM retail_sales WHERE sale_date IS NULL OR ...;
 ```
 
-🔥 Key Queries (12 Total)
+## 🔥 Key Queries (12 Total)  
 
 1-4. Basic EDA
 - Total records, unique customers, categories
@@ -66,7 +66,7 @@ WITH hourly_sale AS (
 SELECT shift, COUNT(*) as total_orders FROM hourly_sale GROUP BY shift;
 ```
 
-💻 Technologies
+## 💻 Technologies
 
 🗄️ PostgreSQL/pgAdmin
 🔍 SQL (CTEs, Window Functions, Aggregations)
@@ -80,7 +80,7 @@ SELECT shift, COUNT(*) as total_orders FROM hourly_sale GROUP BY shift;
 
 Full script: retail_sales.sql
 
-💻 Skills: 
+## 🚀 Workflow
 - Schema design
 - Data cleaning
 - CTEs
