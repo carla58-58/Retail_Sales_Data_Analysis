@@ -13,6 +13,8 @@ CREATE TABLE retail_sales
     total_sale FLOAT
 );
 
+https://github.com/carla58-58/Retail_Sales_Data_Analysis/blob/main/query1.png
+
 SELECT * FROM retail_sales LIMIT 10;
 
 SELECT COUNT(*) FROM retail_sales;
@@ -128,4 +130,5 @@ SELECT
     shift,
     COUNT(*) as total_orders    
 FROM hourly_sale
+
 GROUP BY shift
