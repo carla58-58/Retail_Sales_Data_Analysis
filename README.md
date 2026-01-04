@@ -88,9 +88,30 @@ Full script: [retail_sales.sql](https://github.com/carla58-58/Retail_Sales_Data_
 - Business SQL
 
 ## 🚀 Queries pgAdmin Screenshots
-[Query1](https://github.com/carla58-58/Retail_Sales_Data_Analysis/blob/main/query1.png)
+[Screenshot1](https://github.com/carla58-58/Retail_Sales_Data_Analysis/blob/main/query1.png)
 
-[Query1](https://github.com/carla58-58/Retail_Sales_Data_Analysis/blob/main/query1.png)
+[Screenshot2](https://github.com/carla58-58/Retail_Sales_Data_Analysis/blob/main/query2.png)
+
+[Screenshot3](https://github.com/carla58-58/Retail_Sales_Data_Analysis/blob/main/query3.png)
+
+[Screenshot4](https://github.com/carla58-58/Retail_Sales_Data_Analysis/blob/main/query4.png)
+
+[Screenshot5](https://github.com/carla58-58/Retail_Sales_Data_Analysis/blob/main/query5.png)
+
+[Screenshot6](https://github.com/carla58-58/Retail_Sales_Data_Analysis/blob/main/query6.png)
+
+[Screenshot7](https://github.com/carla58-58/Retail_Sales_Data_Analysis/blob/main/query7.png)
+
+[Screenshot8](https://github.com/carla58-58/Retail_Sales_Data_Analysis/blob/main/query8.png)
+
+[Screenshot9](https://github.com/carla58-58/Retail_Sales_Data_Analysis/blob/main/query9.png)
+
+[Screenshot10](https://github.com/carla58-58/Retail_Sales_Data_Analysis/blob/main/query10.png)
+
+[Screenshot11](https://github.com/carla58-58/Retail_Sales_Data_Analysis/blob/main/query11.png)
+
+[Screenshot12](https://github.com/carla58-58/Retail_Sales_Data_Analysis/blob/main/query12.png)
+
 
 
 
