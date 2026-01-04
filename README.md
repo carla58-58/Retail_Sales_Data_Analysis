@@ -78,7 +78,7 @@ SELECT shift, COUNT(*) as total_orders FROM hourly_sale GROUP BY shift;
 3. 12 Queries → Business insights
 4. Validate → Stakeholder-ready results
 
-Full script: retail_sales.sql
+Full script: [retail_sales.sql](https://github.com/carla58-58/Retail_Sales_Data_Analysis/blob/main/retail_sales_analysis.sql)
 
 ## 🚀 Workflow
 - Schema design
