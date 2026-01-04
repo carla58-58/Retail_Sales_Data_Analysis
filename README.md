@@ -32,18 +32,14 @@ DELETE FROM retail_sales WHERE sale_date IS NULL OR ...;
 🔥 Key Queries (12 Total)
 
 1-4. Basic EDA
-Total records, unique customers, categories
-
-Sample data (LIMIT 10)
+- Total records, unique customers, categories
+- Sample data (LIMIT 10)
 
 5-8. Business Analysis
-Specific date sales (2022-11-05)
-
-Clothing >4 units (Nov 2022)
-
-Category totals (revenue + orders)
-
-Beauty category avg age
+- Specific date sales (2022-11-05)
+- Clothing >4 units (Nov 2022)
+- Category totals (revenue + orders)
+- Beauty category avg age
 
 9-12. Advanced SQL
 
@@ -77,15 +73,17 @@ SELECT shift, COUNT(*) as total_orders FROM hourly_sale GROUP BY shift;
 📊 Data Cleaning + EDA
 
 🚀 Workflow
-CREATE TABLE → Load retail data
-
-Data Quality → Remove nulls
-
-12 Queries → Business insights
-
-Validate → Stakeholder-ready results
+1. CREATE TABLE → Load retail data
+2. Data Quality → Remove nulls
+3. 12 Queries → Business insights
+4. Validate → Stakeholder-ready results
 
 Full script: retail_sales.sql
 
-Skills: Schema design | Data cleaning | CTEs | Window functions | Business SQL
+💻 Skills: 
+- Schema design
+- Data cleaning
+- CTEs
+- Window functions
+- Business SQL
 
