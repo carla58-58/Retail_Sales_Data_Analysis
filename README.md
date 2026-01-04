@@ -42,6 +42,7 @@ Category totals (revenue + orders)
 Beauty category avg age
 
 9-12. Advanced SQL
+
 -- Best month per year (Window Functions)
 SELECT year, month, avg_sale FROM (
     SELECT EXTRACT(YEAR FROM sale_date) as year,
