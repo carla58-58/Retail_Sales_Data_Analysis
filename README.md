@@ -7,7 +7,6 @@ Full SQL workflow: Database design → Data quality → Business intelligence us
 
 ## 🏗️ Database Schema
 
-```sql
 CREATE TABLE retail_sales (
     transactions_id INT PRIMARY KEY,
     sale_date DATE, sale_time TIME,
@@ -15,7 +14,7 @@ CREATE TABLE retail_sales (
     age INT, category VARCHAR(35),
     quantity INT, price_per_unit FLOAT,
     cogs FLOAT, total_sale FLOAT
-);```
+);
 
 🧹 Data Cleaning
 
