@@ -47,6 +47,7 @@ Beauty category avg age
 
 9-12. Advanced SQL
 
+```sql
 -- Best month per year (Window Functions)
 SELECT year, month, avg_sale FROM (
     SELECT EXTRACT(YEAR FROM sale_date) as year,
@@ -55,8 +56,9 @@ SELECT year, month, avg_sale FROM (
                       ORDER BY AVG(total_sale) DESC) as rank
     FROM retail_sales GROUP BY 1
 ) t1 WHERE rank = 1;
+```
 
-
+```sql
 -- Sales by shift (CTE)
 WITH hourly_sale AS (
     SELECT CASE 
@@ -66,6 +68,7 @@ WITH hourly_sale AS (
     END as shift FROM retail_sales
 )
 SELECT shift, COUNT(*) as total_orders FROM hourly_sale GROUP BY shift;
+```
 
 💻 Technologies
 
