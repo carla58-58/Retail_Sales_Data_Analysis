@@ -89,7 +89,6 @@ Full script: [retail_sales.sql](https://github.com/carla58-58/Retail_Sales_Data_
 
 ## 🚀 Queries pgAdmin Screenshots
 ![Screenshot1](https://github.com/carla58-58/Retail_Sales_Data_Analysis/blob/main/query1.png)
-
 ![Screenshot2](https://github.com/carla58-58/Retail_Sales_Data_Analysis/blob/main/query2.png)
 
 ![Screenshot3](https://github.com/carla58-58/Retail_Sales_Data_Analysis/blob/main/query3.png)
