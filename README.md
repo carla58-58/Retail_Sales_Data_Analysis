@@ -16,6 +16,7 @@ CREATE TABLE retail_sales (
     cogs FLOAT, total_sale FLOAT
 );
 
+
 🧹 Data Cleaning
 
 -- Check nulls across 9 columns
