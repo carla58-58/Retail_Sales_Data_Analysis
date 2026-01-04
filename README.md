@@ -20,12 +20,14 @@ CREATE TABLE retail_sales (
 
 🧹 Data Cleaning
 
+```sql
 -- Check nulls across 9 columns
 SELECT * FROM retail_sales 
 WHERE sale_date IS NULL OR sale_time IS NULL OR ...;
 
 -- Remove null records
 DELETE FROM retail_sales WHERE sale_date IS NULL OR ...;
+```
 
 🔥 Key Queries (12 Total)
 
