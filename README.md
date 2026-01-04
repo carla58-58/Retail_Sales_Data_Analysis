@@ -113,6 +113,7 @@ Full script: [retail_sales.sql](https://github.com/carla58-58/Retail_Sales_Data_
 [Screenshot12](https://github.com/carla58-58/Retail_Sales_Data_Analysis/blob/main/query12.png)
 
 
+https://github.com/carla58-58/Retail_Sales_Data_Analysis/blob/main/query1.png
 
 
 
