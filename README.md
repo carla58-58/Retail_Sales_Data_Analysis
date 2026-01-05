@@ -68,9 +68,9 @@ SELECT shift, COUNT(*) as total_orders FROM hourly_sale GROUP BY shift;
 
 ## 💻 Technologies
 
-🗄️ PostgreSQL/pgAdmin
-🔍 SQL (CTEs, Window Functions, Aggregations)
-📊 Data Cleaning + EDA
+- 🗄️ PostgreSQL/pgAdmin
+- 🔍 SQL (CTEs, Window Functions, Aggregations)
+- 📊 Data Cleaning + EDA
 
 🚀 Workflow
 1. CREATE TABLE → Load retail data
